@@ -1,0 +1,10 @@
+#root {
+  max-height: 100%;
+}
+
+.Home {
+  max-height: 100%;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
