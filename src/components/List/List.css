@@ -1,0 +1,31 @@
+.Search {
+  padding: 32px;
+}
+
+.Search .MuiFormControl-root {
+  background-color: whitesmoke;
+  width: 80%;
+}
+
+.List {
+  width: 100%;
+}
+
+.List .MuiTableContainer-root {
+  max-height: 500px;
+}
+
+.List .MuiTableCell-stickyHeader {
+  background-color: darkgray;
+  text-align: center;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.List .MuiTableRow-root {
+  background-color: lightgray;
+}
+
+.List .MuiToolbar-root {
+  background-color: darkgray;
+}

@@ -1,0 +1,16 @@
+.Panel {
+  padding: 64px;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 150px 600px;
+  grid-column-gap: 32px;
+}
+
+.Content {
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
